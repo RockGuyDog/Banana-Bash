@@ -1,6 +1,7 @@
 <language lang="en">
   <string loc="main_name">placeholder</string>
-  <group grp="tutorial">
+  
+  <group grp="tut">
     <string loc="text1">Hello and welcome to [main_name].</string>
     <string loc="text2">You seem new here!</string>
     <string loc="text3">May I ask for your name?</string>
@@ -31,5 +32,12 @@
     <string loc="watch10">Your watch can also bring out your laptop. Press the watch's side, and a laptop will appear in front of you.</string>
     <string loc="watch11">Now, try setting your color and other settings.</string>
     <string loc="watch12">There, now that you have set up your laptop, I can show you around!</string>
+  </group>
+
+  <group grp="cool_outlet_tut">
+    <string loc="text1">This is the Cool Outlet, located just behind the road.</string>
+    <string loc="text1">If you need some extra cash, you can work for it.</string>
+    <string loc="text1">This is the Cool Outlet, located just behind the road.</string>
+    <string loc="text1">This is the Cool Outlet, located just behind the road.</string>
   </group>
 </language>
