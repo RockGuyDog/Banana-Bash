@@ -37,7 +37,12 @@
   <group grp="cool_outlet_tut">
     <string loc="text1">This is the Cool Outlet, located just behind the road.</string>
     <string loc="text2">If you need some extra cash, you can work for it.</string>
-    <string loc="text3">Alternatively, you can exchange some of your old currency for Bananbucks.</string>
+    <string loc="text3">Alternatively, you can exchange some of your currency for Bananbucks.</string>
     <string loc="text4">Now and then, they may run out of certain items, but it's uncommon.</string>
+    <string loc="text5">Most of the time, they have many items, making it tough to decide what to get. Feel free to ask around for recommendations.</string>
+    <string loc="text6">For example, the grappling gun is affordable at just 500 BananBucks.</string>
+    <string loc="text7">But it doesn't shoot very far, which makes sense because it’s very cheap.</string>
+    <string loc="text8">The store has a second and third floor, and they're currently working on building more floors.</string>
+    <string loc="text9">You may find some useful things.</string>
   </group>
 </language>
