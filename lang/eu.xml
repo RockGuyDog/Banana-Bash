@@ -9,7 +9,27 @@
     <string loc="text_bad_word1">Hey that's not your name! That's inappropriate.</string>
     <string loc="text_better">Please enter a better name.</string>
     <string loc="text_too_long">Hey, that's a bit long for a name!</string>
-    <string loc="text5">Well I guess I have to teach you the basics around here!</string>
-    <string loc="shop_desc">This is a picture of the shop, you can buy things here to make you look cooler!</string>
+    <string loc="text5">Well, guess I'll have to show you the ropes!</string>
+    <string loc="watch1">That thing on your wrist is your watch.</string>
+    <string loc="watch2">What?</string>
+    <string loc="watch3">Wait, you don't have one? </string>
+    <string loc="watch4">Come on, they really forgot to give you one.</string>
+    <string loc="watch5">Hey, come on, send me one down.</string>
+    <string loc="watch6">There, recheck your wrist.</string>
+    <string loc="watch7">This is your watch! It can do more than just tell the time; it can also show how many players and the time.</string>
+    <string loc="watch8">Just kidding it can do more than that!</string>
+    <string loc="watch9">Try opening the report board. To open it, press the watch inwards.</string>
+    <string loc="report1">For example, try reporting this player here. He did indeed do something bad;</string>
+    <string loc="report2">He was engaging in hate speech, and not being very nice.</string>
+    <string loc="report3">Now try reporting him.</string>
+    <string loc="report_me1">Hey, not me!</string>
+    <string loc="report_me2">Why would you report me? That wasn't nice. </string>
+    <string loc="report_me3">That actually can get you in trouble for sending false reports, so try not to do that.</string>
+    <string loc="report_him1">Yeah, take that!</string>
+    <string loc="report_him2">But just so you know, if you reported someone innocent, you can get in trouble yourself.</string>
+    <string loc="report4">Now close the report board, with the $red{X}.</string>
+    <string loc="watch10">Your watch can also bring out your laptop. Press the watch's side, and a laptop will appear in front of you.</string>
+    <string loc="watch11">Now, try setting your color and other settings.</string>
+    <string loc="watch12">There, now that you have set up your laptop, I can show you around!</string>
   </group>
 </language>
