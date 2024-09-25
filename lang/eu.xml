@@ -1,0 +1,15 @@
+<language lang="en">
+  <group grp="tutorial">
+    <string loc="main_name">placeholder</string>
+    <string loc="text1">Hello and welcome to [main_name].</string>
+    <string loc="text2">You seem new here!</string>
+    <string loc="text3">May I ask for your name?</string>
+    <string loc="text_name">Please enter your name.</string>
+    <string loc="text4">Hey, [user_name], that's a nice name!</string>
+    <string loc="text_bad_word1">Hey that's not your name! That's inappropriate.</string>
+    <string loc="text_better">Please enter a better name.</string>
+    <string loc="text_too_long">Hey, that's a bit long for a name!</string>
+    <string loc="text5">Well I guess I have to teach you the basics around here!</string>
+    <string loc="shop_desc">This is a picture of the shop, you can buy things here to make you look cooler!</string>
+  </group>
+</language>
