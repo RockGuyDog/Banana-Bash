@@ -1,5 +1,5 @@
 <language lang="en">
-  <string loc="main_name">placeholder</string>
+  <string loc="main_name">Banana Bash</string>
   
   <group grp="tut">
     <string loc="text1">Hello and welcome to [main_name].</string>
