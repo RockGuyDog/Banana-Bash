@@ -13,7 +13,7 @@
     <string loc="text5">Well, guess I'll have to show you the ropes!</string>
     <string loc="watch1">That thing on your wrist is your watch.</string>
     <string loc="watch2">What?</string>
-    <string loc="watch3">Wait, you don't have one? </string>
+    <string loc="watch3">Wait, you don't have one?</string>
     <string loc="watch4">Come on, they really forgot to give you one.</string>
     <string loc="watch5">Hey, come on, send me one down.</string>
     <string loc="watch6">There, recheck your wrist.</string>
@@ -36,8 +36,8 @@
 
   <group grp="cool_outlet_tut">
     <string loc="text1">This is the Cool Outlet, located just behind the road.</string>
-    <string loc="text1">If you need some extra cash, you can work for it.</string>
-    <string loc="text1">This is the Cool Outlet, located just behind the road.</string>
-    <string loc="text1">This is the Cool Outlet, located just behind the road.</string>
+    <string loc="text2">If you need some extra cash, you can work for it.</string>
+    <string loc="text3">Alternatively, you can exchange some of your old currency for Bananbucks.</string>
+    <string loc="text4">Now and then, they may run out of certain items, but it's uncommon.</string>
   </group>
 </language>
