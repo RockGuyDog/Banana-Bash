@@ -1,6 +1,6 @@
 <language lang="en">
+  <string loc="main_name">placeholder</string>
   <group grp="tutorial">
-    <string loc="main_name">placeholder</string>
     <string loc="text1">Hello and welcome to [main_name].</string>
     <string loc="text2">You seem new here!</string>
     <string loc="text3">May I ask for your name?</string>
